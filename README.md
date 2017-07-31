@@ -4,6 +4,7 @@ Aliases and git setup
 - Install Homebrew
 - Install npm
 - Install IDE or text editor
+- Install [theFuck](https://github.com/nvbn/thefuck)
 
 Doublecheck : https://github.com/eklemen/ekDotfiles/blob/master/setup.sh
 
