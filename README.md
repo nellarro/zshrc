@@ -1,8 +1,9 @@
 # zshrc
 Aliases and git setup 
 
--Insall Homebrew
--Install npm
+- Install Homebrew
+- Install npm
+- Install IDE or text editor
 
 Doublecheck : https://github.com/eklemen/ekDotfiles/blob/master/setup.sh
 
