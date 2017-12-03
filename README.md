@@ -24,9 +24,6 @@ Doublecheck : https://github.com/eklemen/ekDotfiles/blob/master/setup.sh
 - alias npupdate="npmu"
 - alias npmu="npm update"
 
-### git stuffs
-- alias plod="pull origin Development"
-
 ### yarn stuffs
 
 - alias savedev="yarn add -D"
@@ -45,7 +42,7 @@ Doublecheck : https://github.com/eklemen/ekDotfiles/blob/master/setup.sh
 
 # Git Config
 
-Type this in letter for letter. 
+_Type this in letter for letter:_
 
 [alias]
 - cam = !git add -A && git commit -m
