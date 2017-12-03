@@ -42,7 +42,7 @@ Doublecheck : https://github.com/eklemen/ekDotfiles/blob/master/setup.sh
 
 # Git Config
 
-_Type this in letter for letter:_
+_Type this in letter for letter in ~/.gitconfig:_
 
 [alias]
 - cam = !git add -A && git commit -m
