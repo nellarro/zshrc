@@ -43,3 +43,18 @@ Doublecheck : https://github.com/eklemen/ekDotfiles/blob/master/setup.sh
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 
 
+#Git Config
+
+/[alias]
+	cam = !git add -A && git commit -m
+	cob = checkout -b
+	com = checkout master
+	cod = checkout development
+	co = checkout
+	la = "!git config -l | grep alias | cut -c 7-" 
+	last = checkout @{-1}
+	pretty = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+	s = status
+	save = !git add -A && git commit -m 'work in progress...savepoint'
+	undo-commit = reset HEAD~1 --mixed
+
